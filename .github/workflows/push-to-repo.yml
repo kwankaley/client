@@ -23,7 +23,7 @@ jobs:
       # Step 3: Clone the target repository
       - name: Clone target repository
         run: |
-          git clone https://github.com/kwankaley/test-license-app.git target-repo
+          git clone https://${{ secrets.TARGET_REPO_PAT }}@github.com/kwankaley/test-license-app.git target-repo
           ls target-repo
 
       # Step 4: Copy files to the target repository
@@ -37,6 +37,6 @@ jobs:
           cd target-repo
           git add .
           git commit -m "Sync from source repo: ${{ github.repository }}"
-          git push https://<PAT>@github.com/kwankaley/test-license-app.git HEAD:main
+          git push https://${{ secrets.TARGET_REPO_PAT }}@github.com/kwankaley/test-license-app.git HEAD:main
         env:
           PAT: ${{ secrets.TARGET_REPO_PAT }}
