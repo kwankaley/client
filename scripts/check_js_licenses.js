@@ -1,23 +1,3 @@
-// import { execSync } from "child_process";
-
-// function checkJsLicenses() {
-//   console.log("Installing Node.js dependencies...");
-//   execSync("npm install", { stdio: "inherit" });
-
-//   console.log("Running license-checker...");
-//   execSync("npx license-checker --json --out js_licenses.json", {
-//     stdio: "inherit",
-//   });
-// }
-
-// try {
-//   checkJsLicenses();
-//   console.log("JavaScript license check completed successfully.");
-// } catch (error) {
-//   console.error("Error checking JavaScript licenses:", error.message);
-//   process.exit(1);
-// }
-
 import { init } from "license-checker";
 
 const allowedLicenses = [
