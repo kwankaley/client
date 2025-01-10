@@ -81,9 +81,9 @@
 
 // main();
 
-const { init } = require("license-checker");
-const { readdirSync, statSync } = require("fs");
-const { join } = require("path");
+import { init } from "license-checker";
+import { readdirSync, statSync } from "fs";
+import { join } from "path";
 
 const allowedLicenses = [
   "MIT",
