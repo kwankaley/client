@@ -1,0 +1,42 @@
+name: Push to Another Repository
+
+on:
+  push:
+    branches:
+      - main # Trigger this workflow on pushes to the main branch
+
+jobs:
+  push-to-target-repo:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Step 1: Check out the source repository
+      - name: Checkout source repository
+        uses: actions/checkout@v4
+
+      # Step 2: Set up Git
+      - name: Configure Git
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+      # Step 3: Clone the target repository
+      - name: Clone target repository
+        run: |
+          git clone https://github.com/kwankaley/test-license-app.git target-repo
+          ls target-repo
+
+      # Step 4: Copy files to the target repository
+      - name: Copy files
+        run: |
+          rsync -av --progress src/components/ target-repo/src/ --delete
+
+      # Step 5: Commit and push changes to the target repository
+      - name: Commit and push changes
+        run: |
+          cd target-repo
+          git add .
+          git commit -m "Sync from source repo: ${{ github.repository }}"
+          git push https://<PAT>@github.com/kwankaley/test-license-app.git HEAD:main
+        env:
+          PAT: ${{ secrets.TARGET_REPO_PAT }}
