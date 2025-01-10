@@ -1,0 +1,2444 @@
+{
+  "@ampproject/remapping@2.3.0": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/ampproject/remapping",
+    "publisher": "Justin Ridgewell",
+    "email": "jridgewell@google.com",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/@ampproject/remapping",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/@ampproject/remapping/LICENSE"
+  },
+  "@babel/code-frame@7.26.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/babel/babel",
+    "publisher": "The Babel Team",
+    "url": "https://babel.dev/team",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/@babel/code-frame",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/@babel/code-frame/LICENSE"
+  },
+  "@babel/compat-data@7.26.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/babel/babel",
+    "publisher": "The Babel Team",
+    "url": "https://babel.dev/team",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/@babel/compat-data",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/@babel/compat-data/LICENSE"
+  },
+  "@babel/core@7.26.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/babel/babel",
+    "publisher": "The Babel Team",
+    "url": "https://babel.dev/team",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/@babel/core",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/@babel/core/LICENSE"
+  },
+  "@babel/generator@7.26.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/babel/babel",
+    "publisher": "The Babel Team",
+    "url": "https://babel.dev/team",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/@babel/generator",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/@babel/generator/LICENSE"
+  },
+  "@babel/helper-compilation-targets@7.25.9": {
+    "licenses": "MIT",
+    "repository": "https://github.com/babel/babel",
+    "publisher": "The Babel Team",
+    "url": "https://babel.dev/team",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/@babel/helper-compilation-targets",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/@babel/helper-compilation-targets/LICENSE"
+  },
+  "@babel/helper-module-imports@7.25.9": {
+    "licenses": "MIT",
+    "repository": "https://github.com/babel/babel",
+    "publisher": "The Babel Team",
+    "url": "https://babel.dev/team",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/@babel/helper-module-imports",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/@babel/helper-module-imports/LICENSE"
+  },
+  "@babel/helper-module-transforms@7.26.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/babel/babel",
+    "publisher": "The Babel Team",
+    "url": "https://babel.dev/team",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/@babel/helper-module-transforms",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/@babel/helper-module-transforms/LICENSE"
+  },
+  "@babel/helper-plugin-utils@7.25.9": {
+    "licenses": "MIT",
+    "repository": "https://github.com/babel/babel",
+    "publisher": "The Babel Team",
+    "url": "https://babel.dev/team",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/@babel/helper-plugin-utils",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/@babel/helper-plugin-utils/LICENSE"
+  },
+  "@babel/helper-string-parser@7.25.9": {
+    "licenses": "MIT",
+    "repository": "https://github.com/babel/babel",
+    "publisher": "The Babel Team",
+    "url": "https://babel.dev/team",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/@babel/helper-string-parser",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/@babel/helper-string-parser/LICENSE"
+  },
+  "@babel/helper-validator-identifier@7.25.9": {
+    "licenses": "MIT",
+    "repository": "https://github.com/babel/babel",
+    "publisher": "The Babel Team",
+    "url": "https://babel.dev/team",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/@babel/helper-validator-identifier",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/@babel/helper-validator-identifier/LICENSE"
+  },
+  "@babel/helper-validator-option@7.25.9": {
+    "licenses": "MIT",
+    "repository": "https://github.com/babel/babel",
+    "publisher": "The Babel Team",
+    "url": "https://babel.dev/team",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/@babel/helper-validator-option",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/@babel/helper-validator-option/LICENSE"
+  },
+  "@babel/helpers@7.26.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/babel/babel",
+    "publisher": "The Babel Team",
+    "url": "https://babel.dev/team",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/@babel/helpers",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/@babel/helpers/LICENSE"
+  },
+  "@babel/parser@7.26.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/babel/babel",
+    "publisher": "The Babel Team",
+    "url": "https://babel.dev/team",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/@babel/parser",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/@babel/parser/LICENSE"
+  },
+  "@babel/plugin-transform-react-jsx-self@7.25.9": {
+    "licenses": "MIT",
+    "repository": "https://github.com/babel/babel",
+    "publisher": "The Babel Team",
+    "url": "https://babel.dev/team",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/@babel/plugin-transform-react-jsx-self",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/@babel/plugin-transform-react-jsx-self/LICENSE"
+  },
+  "@babel/plugin-transform-react-jsx-source@7.25.9": {
+    "licenses": "MIT",
+    "repository": "https://github.com/babel/babel",
+    "publisher": "The Babel Team",
+    "url": "https://babel.dev/team",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/@babel/plugin-transform-react-jsx-source",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/@babel/plugin-transform-react-jsx-source/LICENSE"
+  },
+  "@babel/template@7.25.9": {
+    "licenses": "MIT",
+    "repository": "https://github.com/babel/babel",
+    "publisher": "The Babel Team",
+    "url": "https://babel.dev/team",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/@babel/template",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/@babel/template/LICENSE"
+  },
+  "@babel/traverse@7.26.4": {
+    "licenses": "MIT",
+    "repository": "https://github.com/babel/babel",
+    "publisher": "The Babel Team",
+    "url": "https://babel.dev/team",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/@babel/traverse",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/@babel/traverse/LICENSE"
+  },
+  "@babel/types@7.26.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/babel/babel",
+    "publisher": "The Babel Team",
+    "url": "https://babel.dev/team",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/@babel/types",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/@babel/types/LICENSE"
+  },
+  "@esbuild/darwin-arm64@0.24.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/evanw/esbuild",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/@esbuild/darwin-arm64",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/@esbuild/darwin-arm64/README.md"
+  },
+  "@eslint-community/eslint-utils@4.4.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/eslint-community/eslint-utils",
+    "publisher": "Toru Nagashima",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/@eslint-community/eslint-utils",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/@eslint-community/eslint-utils/LICENSE"
+  },
+  "@eslint-community/regexpp@4.12.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/eslint-community/regexpp",
+    "publisher": "Toru Nagashima",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/@eslint-community/regexpp",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/@eslint-community/regexpp/LICENSE"
+  },
+  "@eslint/config-array@0.19.1": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/eslint/rewrite",
+    "publisher": "Nicholas C. Zakas",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/@eslint/config-array",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/@eslint/config-array/LICENSE"
+  },
+  "@eslint/core@0.9.1": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/eslint/rewrite",
+    "publisher": "Nicholas C. Zakas",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/@eslint/core",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/@eslint/core/LICENSE"
+  },
+  "@eslint/eslintrc@3.2.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/eslint/eslintrc",
+    "publisher": "Nicholas C. Zakas",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/@eslint/eslintrc",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/@eslint/eslintrc/LICENSE"
+  },
+  "@eslint/js@9.17.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/eslint/eslint",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/@eslint/js",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/@eslint/js/LICENSE"
+  },
+  "@eslint/object-schema@2.1.5": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/eslint/rewrite",
+    "publisher": "Nicholas C. Zakas",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/@eslint/object-schema",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/@eslint/object-schema/LICENSE"
+  },
+  "@eslint/plugin-kit@0.2.4": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/eslint/rewrite",
+    "publisher": "Nicholas C. Zakas",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/@eslint/plugin-kit",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/@eslint/plugin-kit/LICENSE"
+  },
+  "@humanfs/core@0.19.1": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/humanwhocodes/humanfs",
+    "publisher": "Nicholas C. Zakas",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/@humanfs/core",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/@humanfs/core/LICENSE"
+  },
+  "@humanfs/node@0.16.6": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/humanwhocodes/humanfs",
+    "publisher": "Nicholas C. Zakas",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/@humanfs/node",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/@humanfs/node/LICENSE"
+  },
+  "@humanwhocodes/module-importer@1.0.1": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/humanwhocodes/module-importer",
+    "publisher": "Nicholas C. Zaks",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/@humanwhocodes/module-importer",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/@humanwhocodes/module-importer/LICENSE"
+  },
+  "@humanwhocodes/retry@0.3.1": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/humanwhocodes/retry",
+    "publisher": "Nicholas C. Zaks",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/@humanfs/node/node_modules/@humanwhocodes/retry",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/@humanfs/node/node_modules/@humanwhocodes/retry/LICENSE"
+  },
+  "@humanwhocodes/retry@0.4.1": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/humanwhocodes/retry",
+    "publisher": "Nicholas C. Zaks",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/@humanwhocodes/retry",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/@humanwhocodes/retry/LICENSE"
+  },
+  "@jridgewell/gen-mapping@0.3.8": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jridgewell/gen-mapping",
+    "publisher": "Justin Ridgewell",
+    "email": "justin@ridgewell.name",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/@jridgewell/gen-mapping",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/@jridgewell/gen-mapping/LICENSE"
+  },
+  "@jridgewell/resolve-uri@3.1.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jridgewell/resolve-uri",
+    "publisher": "Justin Ridgewell",
+    "email": "justin@ridgewell.name",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/@jridgewell/resolve-uri",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/@jridgewell/resolve-uri/LICENSE"
+  },
+  "@jridgewell/set-array@1.2.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jridgewell/set-array",
+    "publisher": "Justin Ridgewell",
+    "email": "justin@ridgewell.name",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/@jridgewell/set-array",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/@jridgewell/set-array/LICENSE"
+  },
+  "@jridgewell/sourcemap-codec@1.5.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jridgewell/sourcemap-codec",
+    "publisher": "Rich Harris",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/@jridgewell/sourcemap-codec",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/@jridgewell/sourcemap-codec/LICENSE"
+  },
+  "@jridgewell/trace-mapping@0.3.25": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jridgewell/trace-mapping",
+    "publisher": "Justin Ridgewell",
+    "email": "justin@ridgewell.name",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/@jridgewell/trace-mapping",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/@jridgewell/trace-mapping/LICENSE"
+  },
+  "@rollup/rollup-darwin-arm64@4.30.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/rollup/rollup",
+    "publisher": "Lukas Taegert-Atkinson",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/@rollup/rollup-darwin-arm64",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/@rollup/rollup-darwin-arm64/README.md"
+  },
+  "@types/babel__core@7.20.5": {
+    "licenses": "MIT",
+    "repository": "https://github.com/DefinitelyTyped/DefinitelyTyped",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/@types/babel__core",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/@types/babel__core/LICENSE"
+  },
+  "@types/babel__generator@7.6.8": {
+    "licenses": "MIT",
+    "repository": "https://github.com/DefinitelyTyped/DefinitelyTyped",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/@types/babel__generator",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/@types/babel__generator/LICENSE"
+  },
+  "@types/babel__template@7.4.4": {
+    "licenses": "MIT",
+    "repository": "https://github.com/DefinitelyTyped/DefinitelyTyped",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/@types/babel__template",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/@types/babel__template/LICENSE"
+  },
+  "@types/babel__traverse@7.20.6": {
+    "licenses": "MIT",
+    "repository": "https://github.com/DefinitelyTyped/DefinitelyTyped",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/@types/babel__traverse",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/@types/babel__traverse/LICENSE"
+  },
+  "@types/estree@1.0.6": {
+    "licenses": "MIT",
+    "repository": "https://github.com/DefinitelyTyped/DefinitelyTyped",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/@types/estree",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/@types/estree/LICENSE"
+  },
+  "@types/json-schema@7.0.15": {
+    "licenses": "MIT",
+    "repository": "https://github.com/DefinitelyTyped/DefinitelyTyped",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/@types/json-schema",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/@types/json-schema/LICENSE"
+  },
+  "@types/prop-types@15.7.14": {
+    "licenses": "MIT",
+    "repository": "https://github.com/DefinitelyTyped/DefinitelyTyped",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/@types/prop-types",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/@types/prop-types/LICENSE"
+  },
+  "@types/react-dom@18.3.5": {
+    "licenses": "MIT",
+    "repository": "https://github.com/DefinitelyTyped/DefinitelyTyped",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/@types/react-dom",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/@types/react-dom/LICENSE"
+  },
+  "@types/react@18.3.18": {
+    "licenses": "MIT",
+    "repository": "https://github.com/DefinitelyTyped/DefinitelyTyped",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/@types/react",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/@types/react/LICENSE"
+  },
+  "@vitejs/plugin-react@4.3.4": {
+    "licenses": "MIT",
+    "repository": "https://github.com/vitejs/vite-plugin-react",
+    "publisher": "Evan You",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/@vitejs/plugin-react",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/@vitejs/plugin-react/LICENSE"
+  },
+  "abbrev@1.1.1": {
+    "licenses": "ISC",
+    "repository": "https://github.com/isaacs/abbrev-js",
+    "publisher": "Isaac Z. Schlueter",
+    "email": "i@izs.me",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/abbrev",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/abbrev/LICENSE"
+  },
+  "acorn-jsx@5.3.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/acornjs/acorn-jsx",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/acorn-jsx",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/acorn-jsx/LICENSE"
+  },
+  "acorn@8.14.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/acornjs/acorn",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/acorn",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/acorn/LICENSE"
+  },
+  "ajv@6.12.6": {
+    "licenses": "MIT",
+    "repository": "https://github.com/ajv-validator/ajv",
+    "publisher": "Evgeny Poberezkin",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/ajv",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/ajv/LICENSE"
+  },
+  "ansi-styles@3.2.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/chalk/ansi-styles",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/license-checker/node_modules/ansi-styles",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/license-checker/node_modules/ansi-styles/license"
+  },
+  "ansi-styles@4.3.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/chalk/ansi-styles",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/ansi-styles",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/ansi-styles/license"
+  },
+  "argparse@2.0.1": {
+    "licenses": "Python-2.0",
+    "repository": "https://github.com/nodeca/argparse",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/argparse",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/argparse/LICENSE"
+  },
+  "array-buffer-byte-length@1.0.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/inspect-js/array-buffer-byte-length",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/array-buffer-byte-length",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/array-buffer-byte-length/LICENSE"
+  },
+  "array-find-index@1.0.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/array-find-index",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/array-find-index",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/array-find-index/license"
+  },
+  "array-includes@3.1.8": {
+    "licenses": "MIT",
+    "repository": "https://github.com/es-shims/array-includes",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "url": "http://ljharb.codes",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/array-includes",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/array-includes/LICENSE"
+  },
+  "array.prototype.findlast@1.2.5": {
+    "licenses": "MIT",
+    "repository": "https://github.com/es-shims/Array.prototype.findLast",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "url": "http://ljharb.codes",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/array.prototype.findlast",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/array.prototype.findlast/LICENSE"
+  },
+  "array.prototype.flat@1.3.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/es-shims/Array.prototype.flat",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "url": "http://ljharb.codes",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/array.prototype.flat",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/array.prototype.flat/LICENSE"
+  },
+  "array.prototype.flatmap@1.3.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/es-shims/Array.prototype.flatMap",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "url": "http://ljharb.codes",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/array.prototype.flatmap",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/array.prototype.flatmap/LICENSE"
+  },
+  "array.prototype.tosorted@1.1.4": {
+    "licenses": "MIT",
+    "repository": "https://github.com/es-shims/Array.prototype.toSorted",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/array.prototype.tosorted",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/array.prototype.tosorted/LICENSE"
+  },
+  "arraybuffer.prototype.slice@1.0.4": {
+    "licenses": "MIT",
+    "repository": "https://github.com/es-shims/ArrayBuffer.prototype.slice",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/arraybuffer.prototype.slice",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/arraybuffer.prototype.slice/LICENSE"
+  },
+  "asap@2.0.6": {
+    "licenses": "MIT",
+    "repository": "https://github.com/kriskowal/asap",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/asap",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/asap/LICENSE.md"
+  },
+  "available-typed-arrays@1.0.7": {
+    "licenses": "MIT",
+    "repository": "https://github.com/inspect-js/available-typed-arrays",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/available-typed-arrays",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/available-typed-arrays/LICENSE"
+  },
+  "balanced-match@1.0.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/juliangruber/balanced-match",
+    "publisher": "Julian Gruber",
+    "email": "mail@juliangruber.com",
+    "url": "http://juliangruber.com",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/balanced-match",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/balanced-match/LICENSE.md"
+  },
+  "brace-expansion@1.1.11": {
+    "licenses": "MIT",
+    "repository": "https://github.com/juliangruber/brace-expansion",
+    "publisher": "Julian Gruber",
+    "email": "mail@juliangruber.com",
+    "url": "http://juliangruber.com",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/brace-expansion",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/brace-expansion/LICENSE"
+  },
+  "browserslist@4.24.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/browserslist/browserslist",
+    "publisher": "Andrey Sitnik",
+    "email": "andrey@sitnik.ru",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/browserslist",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/browserslist/LICENSE"
+  },
+  "call-bind-apply-helpers@1.0.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/ljharb/call-bind-apply-helpers",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/call-bind-apply-helpers",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/call-bind-apply-helpers/LICENSE"
+  },
+  "call-bind@1.0.8": {
+    "licenses": "MIT",
+    "repository": "https://github.com/ljharb/call-bind",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/call-bind",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/call-bind/LICENSE"
+  },
+  "call-bound@1.0.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/ljharb/call-bound",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/call-bound",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/call-bound/LICENSE"
+  },
+  "callsites@3.1.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/callsites",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/callsites",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/callsites/license"
+  },
+  "caniuse-lite@1.0.30001690": {
+    "licenses": "CC-BY-4.0",
+    "repository": "https://github.com/browserslist/caniuse-lite",
+    "publisher": "Ben Briggs",
+    "email": "beneb.info@gmail.com",
+    "url": "http://beneb.info",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/caniuse-lite",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/caniuse-lite/LICENSE"
+  },
+  "chalk@2.4.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/chalk/chalk",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/license-checker/node_modules/chalk",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/license-checker/node_modules/chalk/license"
+  },
+  "chalk@4.1.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/chalk/chalk",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/chalk",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/chalk/license"
+  },
+  "client@0.0.0": {
+    "licenses": "UNLICENSED",
+    "private": true,
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/README.md"
+  },
+  "color-convert@1.9.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/Qix-/color-convert",
+    "publisher": "Heather Arthur",
+    "email": "fayearthur@gmail.com",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/license-checker/node_modules/color-convert",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/license-checker/node_modules/color-convert/LICENSE"
+  },
+  "color-convert@2.0.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/Qix-/color-convert",
+    "publisher": "Heather Arthur",
+    "email": "fayearthur@gmail.com",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/color-convert",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/color-convert/LICENSE"
+  },
+  "color-name@1.1.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/dfcreative/color-name",
+    "publisher": "DY",
+    "email": "dfcreative@gmail.com",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/license-checker/node_modules/color-name",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/license-checker/node_modules/color-name/LICENSE"
+  },
+  "color-name@1.1.4": {
+    "licenses": "MIT",
+    "repository": "https://github.com/colorjs/color-name",
+    "publisher": "DY",
+    "email": "dfcreative@gmail.com",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/color-name",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/color-name/LICENSE"
+  },
+  "concat-map@0.0.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/substack/node-concat-map",
+    "publisher": "James Halliday",
+    "email": "mail@substack.net",
+    "url": "http://substack.net",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/concat-map",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/concat-map/LICENSE"
+  },
+  "convert-source-map@2.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/thlorenz/convert-source-map",
+    "publisher": "Thorsten Lorenz",
+    "email": "thlorenz@gmx.de",
+    "url": "http://thlorenz.com",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/convert-source-map",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/convert-source-map/LICENSE"
+  },
+  "cross-spawn@7.0.6": {
+    "licenses": "MIT",
+    "repository": "https://github.com/moxystudio/node-cross-spawn",
+    "publisher": "André Cruz",
+    "email": "andre@moxy.studio",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/cross-spawn",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/cross-spawn/LICENSE"
+  },
+  "csstype@3.1.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/frenic/csstype",
+    "publisher": "Fredrik Nicol",
+    "email": "fredrik.nicol@gmail.com",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/csstype",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/csstype/LICENSE"
+  },
+  "data-view-buffer@1.0.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/inspect-js/data-view-buffer",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/data-view-buffer",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/data-view-buffer/LICENSE"
+  },
+  "data-view-byte-length@1.0.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/inspect-js/data-view-byte-length",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/data-view-byte-length",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/data-view-byte-length/LICENSE"
+  },
+  "data-view-byte-offset@1.0.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/inspect-js/data-view-byte-offset",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/data-view-byte-offset",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/data-view-byte-offset/LICENSE"
+  },
+  "debug@3.2.7": {
+    "licenses": "MIT",
+    "repository": "https://github.com/visionmedia/debug",
+    "publisher": "TJ Holowaychuk",
+    "email": "tj@vision-media.ca",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/license-checker/node_modules/debug",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/license-checker/node_modules/debug/LICENSE"
+  },
+  "debug@4.4.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/debug-js/debug",
+    "publisher": "Josh Junon",
+    "url": "https://github.com/qix-",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/debug",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/debug/LICENSE"
+  },
+  "debuglog@1.0.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sam-github/node-debuglog",
+    "publisher": "Sam Roberts",
+    "email": "sam@strongloop.com",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/debuglog",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/debuglog/LICENSE"
+  },
+  "deep-is@0.1.4": {
+    "licenses": "MIT",
+    "repository": "https://github.com/thlorenz/deep-is",
+    "publisher": "Thorsten Lorenz",
+    "email": "thlorenz@gmx.de",
+    "url": "http://thlorenz.com",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/deep-is",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/deep-is/LICENSE"
+  },
+  "define-data-property@1.1.4": {
+    "licenses": "MIT",
+    "repository": "https://github.com/ljharb/define-data-property",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/define-data-property",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/define-data-property/LICENSE"
+  },
+  "define-properties@1.2.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/ljharb/define-properties",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/define-properties",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/define-properties/LICENSE"
+  },
+  "dezalgo@1.0.4": {
+    "licenses": "ISC",
+    "repository": "https://github.com/npm/dezalgo",
+    "publisher": "Isaac Z. Schlueter",
+    "email": "i@izs.me",
+    "url": "http://blog.izs.me/",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/dezalgo",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/dezalgo/LICENSE"
+  },
+  "doctrine@2.1.0": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/eslint/doctrine",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/doctrine",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/doctrine/LICENSE"
+  },
+  "dunder-proto@1.0.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/es-shims/dunder-proto",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/dunder-proto",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/dunder-proto/LICENSE"
+  },
+  "electron-to-chromium@1.5.79": {
+    "licenses": "ISC",
+    "repository": "https://github.com/kilian/electron-to-chromium",
+    "publisher": "Kilian Valkhof",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/electron-to-chromium",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/electron-to-chromium/LICENSE"
+  },
+  "es-abstract@1.23.9": {
+    "licenses": "MIT",
+    "repository": "https://github.com/ljharb/es-abstract",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "url": "http://ljharb.codes",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/es-abstract",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/es-abstract/LICENSE"
+  },
+  "es-define-property@1.0.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/ljharb/es-define-property",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/es-define-property",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/es-define-property/LICENSE"
+  },
+  "es-errors@1.3.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/ljharb/es-errors",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/es-errors",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/es-errors/LICENSE"
+  },
+  "es-iterator-helpers@1.2.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/es-shims/iterator-helpers",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/es-iterator-helpers",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/es-iterator-helpers/LICENSE"
+  },
+  "es-object-atoms@1.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/ljharb/es-object-atoms",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/es-object-atoms",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/es-object-atoms/LICENSE"
+  },
+  "es-set-tostringtag@2.1.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/es-shims/es-set-tostringtag",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/es-set-tostringtag",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/es-set-tostringtag/LICENSE"
+  },
+  "es-shim-unscopables@1.0.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/ljharb/es-shim-unscopables",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/es-shim-unscopables",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/es-shim-unscopables/LICENSE"
+  },
+  "es-to-primitive@1.3.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/ljharb/es-to-primitive",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/es-to-primitive",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/es-to-primitive/LICENSE"
+  },
+  "esbuild@0.24.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/evanw/esbuild",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/esbuild",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/esbuild/LICENSE.md"
+  },
+  "escalade@3.2.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/lukeed/escalade",
+    "publisher": "Luke Edwards",
+    "email": "luke.edwards05@gmail.com",
+    "url": "https://lukeed.com",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/escalade",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/escalade/license"
+  },
+  "escape-string-regexp@1.0.5": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/escape-string-regexp",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/license-checker/node_modules/escape-string-regexp",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/license-checker/node_modules/escape-string-regexp/license"
+  },
+  "escape-string-regexp@4.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/escape-string-regexp",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "https://sindresorhus.com",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/escape-string-regexp",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/escape-string-regexp/license"
+  },
+  "eslint-plugin-react-hooks@5.1.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/facebook/react",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/eslint-plugin-react-hooks",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/eslint-plugin-react-hooks/LICENSE"
+  },
+  "eslint-plugin-react-refresh@0.4.16": {
+    "licenses": "MIT",
+    "repository": "https://github.com/ArnaudBarre/eslint-plugin-react-refresh",
+    "publisher": "Arnaud Barré",
+    "url": "https://github.com/ArnaudBarre",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/eslint-plugin-react-refresh",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/eslint-plugin-react-refresh/LICENSE"
+  },
+  "eslint-plugin-react@7.37.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jsx-eslint/eslint-plugin-react",
+    "publisher": "Yannick Croissant",
+    "email": "yannick.croissant+npm@gmail.com",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/eslint-plugin-react",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/eslint-plugin-react/LICENSE"
+  },
+  "eslint-scope@8.2.0": {
+    "licenses": "BSD-2-Clause",
+    "repository": "https://github.com/eslint/js",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/eslint-scope",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/eslint-scope/LICENSE"
+  },
+  "eslint-visitor-keys@3.4.3": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/eslint/eslint-visitor-keys",
+    "publisher": "Toru Nagashima",
+    "url": "https://github.com/mysticatea",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/@eslint-community/eslint-utils/node_modules/eslint-visitor-keys",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/@eslint-community/eslint-utils/node_modules/eslint-visitor-keys/LICENSE"
+  },
+  "eslint-visitor-keys@4.2.0": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/eslint/js",
+    "publisher": "Toru Nagashima",
+    "url": "https://github.com/mysticatea",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/eslint-visitor-keys",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/eslint-visitor-keys/LICENSE"
+  },
+  "eslint@9.17.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/eslint/eslint",
+    "publisher": "Nicholas C. Zakas",
+    "email": "nicholas+npm@nczconsulting.com",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/eslint",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/eslint/LICENSE"
+  },
+  "espree@10.3.0": {
+    "licenses": "BSD-2-Clause",
+    "repository": "https://github.com/eslint/js",
+    "publisher": "Nicholas C. Zakas",
+    "email": "nicholas+npm@nczconsulting.com",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/espree",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/espree/LICENSE"
+  },
+  "esquery@1.6.0": {
+    "licenses": "BSD-3-Clause",
+    "repository": "https://github.com/estools/esquery",
+    "publisher": "Joel Feenstra",
+    "email": "jrfeenst+esquery@gmail.com",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/esquery",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/esquery/license.txt"
+  },
+  "esrecurse@4.3.0": {
+    "licenses": "BSD-2-Clause",
+    "repository": "https://github.com/estools/esrecurse",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/esrecurse",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/esrecurse/README.md"
+  },
+  "estraverse@5.3.0": {
+    "licenses": "BSD-2-Clause",
+    "repository": "https://github.com/estools/estraverse",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/estraverse",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/estraverse/LICENSE.BSD"
+  },
+  "esutils@2.0.3": {
+    "licenses": "BSD-2-Clause",
+    "repository": "https://github.com/estools/esutils",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/esutils",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/esutils/LICENSE.BSD"
+  },
+  "fast-deep-equal@3.1.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/epoberezkin/fast-deep-equal",
+    "publisher": "Evgeny Poberezkin",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/fast-deep-equal",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/fast-deep-equal/LICENSE"
+  },
+  "fast-json-stable-stringify@2.1.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/epoberezkin/fast-json-stable-stringify",
+    "publisher": "James Halliday",
+    "email": "mail@substack.net",
+    "url": "http://substack.net",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/fast-json-stable-stringify",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/fast-json-stable-stringify/LICENSE"
+  },
+  "fast-levenshtein@2.0.6": {
+    "licenses": "MIT",
+    "repository": "https://github.com/hiddentao/fast-levenshtein",
+    "publisher": "Ramesh Nair",
+    "email": "ram@hiddentao.com",
+    "url": "http://www.hiddentao.com/",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/fast-levenshtein",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/fast-levenshtein/LICENSE.md"
+  },
+  "file-entry-cache@8.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jaredwray/file-entry-cache",
+    "publisher": "Jared Wray",
+    "url": "https://jaredwray.com",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/file-entry-cache",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/file-entry-cache/LICENSE"
+  },
+  "find-up@5.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/find-up",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "https://sindresorhus.com",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/find-up",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/find-up/license"
+  },
+  "flat-cache@4.0.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jaredwray/flat-cache",
+    "publisher": "Jared Wray",
+    "url": "https://jaredwray.com",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/flat-cache",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/flat-cache/LICENSE"
+  },
+  "flatted@3.3.2": {
+    "licenses": "ISC",
+    "repository": "https://github.com/WebReflection/flatted",
+    "publisher": "Andrea Giammarchi",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/flatted",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/flatted/LICENSE"
+  },
+  "for-each@0.3.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/Raynos/for-each",
+    "publisher": "Raynos",
+    "email": "raynos2@gmail.com",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/for-each",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/for-each/LICENSE"
+  },
+  "fs.realpath@1.0.0": {
+    "licenses": "ISC",
+    "repository": "https://github.com/isaacs/fs.realpath",
+    "publisher": "Isaac Z. Schlueter",
+    "email": "i@izs.me",
+    "url": "http://blog.izs.me/",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/fs.realpath",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/fs.realpath/LICENSE"
+  },
+  "fsevents@2.3.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/fsevents/fsevents",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/fsevents",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/fsevents/LICENSE"
+  },
+  "function-bind@1.1.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/Raynos/function-bind",
+    "publisher": "Raynos",
+    "email": "raynos2@gmail.com",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/function-bind",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/function-bind/LICENSE"
+  },
+  "function.prototype.name@1.1.8": {
+    "licenses": "MIT",
+    "repository": "https://github.com/es-shims/Function.prototype.name",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/function.prototype.name",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/function.prototype.name/LICENSE"
+  },
+  "functions-have-names@1.2.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/inspect-js/functions-have-names",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/functions-have-names",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/functions-have-names/LICENSE"
+  },
+  "gensync@1.0.0-beta.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/loganfsmyth/gensync",
+    "publisher": "Logan Smyth",
+    "email": "loganfsmyth@gmail.com",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/gensync",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/gensync/LICENSE"
+  },
+  "get-intrinsic@1.2.7": {
+    "licenses": "MIT",
+    "repository": "https://github.com/ljharb/get-intrinsic",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/get-intrinsic",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/get-intrinsic/LICENSE"
+  },
+  "get-proto@1.0.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/ljharb/get-proto",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/get-proto",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/get-proto/LICENSE"
+  },
+  "get-symbol-description@1.1.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/inspect-js/get-symbol-description",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/get-symbol-description",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/get-symbol-description/LICENSE"
+  },
+  "glob-parent@6.0.2": {
+    "licenses": "ISC",
+    "repository": "https://github.com/gulpjs/glob-parent",
+    "publisher": "Gulp Team",
+    "email": "team@gulpjs.com",
+    "url": "https://gulpjs.com/",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/glob-parent",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/glob-parent/LICENSE"
+  },
+  "glob@7.2.3": {
+    "licenses": "ISC",
+    "repository": "https://github.com/isaacs/node-glob",
+    "publisher": "Isaac Z. Schlueter",
+    "email": "i@izs.me",
+    "url": "http://blog.izs.me/",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/glob",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/glob/LICENSE"
+  },
+  "globals@11.12.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/globals",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/@babel/traverse/node_modules/globals",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/@babel/traverse/node_modules/globals/license"
+  },
+  "globals@14.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/globals",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "https://sindresorhus.com",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/@eslint/eslintrc/node_modules/globals",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/@eslint/eslintrc/node_modules/globals/license"
+  },
+  "globals@15.14.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/globals",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "https://sindresorhus.com",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/globals",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/globals/license"
+  },
+  "globalthis@1.0.4": {
+    "licenses": "MIT",
+    "repository": "https://github.com/ljharb/System.global",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/globalthis",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/globalthis/LICENSE"
+  },
+  "gopd@1.2.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/ljharb/gopd",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/gopd",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/gopd/LICENSE"
+  },
+  "graceful-fs@4.2.11": {
+    "licenses": "ISC",
+    "repository": "https://github.com/isaacs/node-graceful-fs",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/graceful-fs",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/graceful-fs/LICENSE"
+  },
+  "has-bigints@1.1.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/ljharb/has-bigints",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/has-bigints",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/has-bigints/LICENSE"
+  },
+  "has-flag@3.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/has-flag",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/license-checker/node_modules/has-flag",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/license-checker/node_modules/has-flag/license"
+  },
+  "has-flag@4.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/has-flag",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/has-flag",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/has-flag/license"
+  },
+  "has-property-descriptors@1.0.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/inspect-js/has-property-descriptors",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/has-property-descriptors",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/has-property-descriptors/LICENSE"
+  },
+  "has-proto@1.2.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/inspect-js/has-proto",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/has-proto",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/has-proto/LICENSE"
+  },
+  "has-symbols@1.1.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/inspect-js/has-symbols",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "url": "http://ljharb.codes",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/has-symbols",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/has-symbols/LICENSE"
+  },
+  "has-tostringtag@1.0.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/inspect-js/has-tostringtag",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "url": "http://ljharb.codes",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/has-tostringtag",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/has-tostringtag/LICENSE"
+  },
+  "hasown@2.0.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/inspect-js/hasOwn",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/hasown",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/hasown/LICENSE"
+  },
+  "hosted-git-info@2.8.9": {
+    "licenses": "ISC",
+    "repository": "https://github.com/npm/hosted-git-info",
+    "publisher": "Rebecca Turner",
+    "email": "me@re-becca.org",
+    "url": "http://re-becca.org",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/hosted-git-info",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/hosted-git-info/LICENSE"
+  },
+  "ignore@5.3.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/kaelzhang/node-ignore",
+    "publisher": "kael",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/ignore",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/ignore/LICENSE-MIT"
+  },
+  "import-fresh@3.3.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/import-fresh",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "https://sindresorhus.com",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/import-fresh",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/import-fresh/license"
+  },
+  "imurmurhash@0.1.4": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jensyt/imurmurhash-js",
+    "publisher": "Jens Taylor",
+    "email": "jensyt@gmail.com",
+    "url": "https://github.com/homebrewing",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/imurmurhash",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/imurmurhash/README.md"
+  },
+  "inflight@1.0.6": {
+    "licenses": "ISC",
+    "repository": "https://github.com/npm/inflight",
+    "publisher": "Isaac Z. Schlueter",
+    "email": "i@izs.me",
+    "url": "http://blog.izs.me/",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/inflight",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/inflight/LICENSE"
+  },
+  "inherits@2.0.4": {
+    "licenses": "ISC",
+    "repository": "https://github.com/isaacs/inherits",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/inherits",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/inherits/LICENSE"
+  },
+  "internal-slot@1.1.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/ljharb/internal-slot",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/internal-slot",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/internal-slot/LICENSE"
+  },
+  "is-array-buffer@3.0.5": {
+    "licenses": "MIT",
+    "repository": "https://github.com/inspect-js/is-array-buffer",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/is-array-buffer",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/is-array-buffer/LICENSE"
+  },
+  "is-async-function@2.1.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/inspect-js/is-async-function",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/is-async-function",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/is-async-function/LICENSE"
+  },
+  "is-bigint@1.1.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/inspect-js/is-bigint",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/is-bigint",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/is-bigint/LICENSE"
+  },
+  "is-boolean-object@1.2.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/inspect-js/is-boolean-object",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/is-boolean-object",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/is-boolean-object/LICENSE"
+  },
+  "is-callable@1.2.7": {
+    "licenses": "MIT",
+    "repository": "https://github.com/inspect-js/is-callable",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "url": "http://ljharb.codes",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/is-callable",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/is-callable/LICENSE"
+  },
+  "is-core-module@2.16.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/inspect-js/is-core-module",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/is-core-module",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/is-core-module/LICENSE"
+  },
+  "is-data-view@1.0.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/inspect-js/is-data-view",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/is-data-view",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/is-data-view/LICENSE"
+  },
+  "is-date-object@1.1.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/inspect-js/is-date-object",
+    "publisher": "Jordan Harband",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/is-date-object",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/is-date-object/LICENSE"
+  },
+  "is-extglob@2.1.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jonschlinkert/is-extglob",
+    "publisher": "Jon Schlinkert",
+    "url": "https://github.com/jonschlinkert",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/is-extglob",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/is-extglob/LICENSE"
+  },
+  "is-finalizationregistry@1.1.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/inspect-js/is-finalizationregistry",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/is-finalizationregistry",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/is-finalizationregistry/LICENSE"
+  },
+  "is-generator-function@1.1.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/inspect-js/is-generator-function",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/is-generator-function",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/is-generator-function/LICENSE"
+  },
+  "is-glob@4.0.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/micromatch/is-glob",
+    "publisher": "Jon Schlinkert",
+    "url": "https://github.com/jonschlinkert",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/is-glob",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/is-glob/LICENSE"
+  },
+  "is-map@2.0.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/inspect-js/is-map",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/is-map",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/is-map/LICENSE"
+  },
+  "is-number-object@1.1.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/inspect-js/is-number-object",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/is-number-object",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/is-number-object/LICENSE"
+  },
+  "is-regex@1.2.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/inspect-js/is-regex",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/is-regex",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/is-regex/LICENSE"
+  },
+  "is-set@2.0.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/inspect-js/is-set",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/is-set",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/is-set/LICENSE"
+  },
+  "is-shared-array-buffer@1.0.4": {
+    "licenses": "MIT",
+    "repository": "https://github.com/inspect-js/is-shared-array-buffer",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "url": "http://ljharb.codes",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/is-shared-array-buffer",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/is-shared-array-buffer/LICENSE"
+  },
+  "is-string@1.1.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/inspect-js/is-string",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/is-string",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/is-string/LICENSE"
+  },
+  "is-symbol@1.1.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/inspect-js/is-symbol",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/is-symbol",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/is-symbol/LICENSE"
+  },
+  "is-typed-array@1.1.15": {
+    "licenses": "MIT",
+    "repository": "https://github.com/inspect-js/is-typed-array",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "url": "http://ljharb.codes",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/is-typed-array",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/is-typed-array/LICENSE"
+  },
+  "is-weakmap@2.0.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/inspect-js/is-weakmap",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/is-weakmap",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/is-weakmap/LICENSE"
+  },
+  "is-weakref@1.1.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/inspect-js/is-weakref",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/is-weakref",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/is-weakref/LICENSE"
+  },
+  "is-weakset@2.0.4": {
+    "licenses": "MIT",
+    "repository": "https://github.com/inspect-js/is-weakset",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/is-weakset",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/is-weakset/LICENSE"
+  },
+  "isarray@2.0.5": {
+    "licenses": "MIT",
+    "repository": "https://github.com/juliangruber/isarray",
+    "publisher": "Julian Gruber",
+    "email": "mail@juliangruber.com",
+    "url": "http://juliangruber.com",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/isarray",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/isarray/LICENSE"
+  },
+  "isexe@2.0.0": {
+    "licenses": "ISC",
+    "repository": "https://github.com/isaacs/isexe",
+    "publisher": "Isaac Z. Schlueter",
+    "email": "i@izs.me",
+    "url": "http://blog.izs.me/",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/isexe",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/isexe/LICENSE"
+  },
+  "iterator.prototype@1.1.5": {
+    "licenses": "MIT",
+    "repository": "https://github.com/ljharb/Iterator.prototype",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/iterator.prototype",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/iterator.prototype/LICENSE"
+  },
+  "js-tokens@4.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/lydell/js-tokens",
+    "publisher": "Simon Lydell",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/js-tokens",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/js-tokens/LICENSE"
+  },
+  "js-yaml@4.1.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/nodeca/js-yaml",
+    "publisher": "Vladimir Zapparov",
+    "email": "dervus.grim@gmail.com",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/js-yaml",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/js-yaml/LICENSE"
+  },
+  "jsesc@3.1.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/mathiasbynens/jsesc",
+    "publisher": "Mathias Bynens",
+    "url": "https://mathiasbynens.be/",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/jsesc",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/jsesc/LICENSE-MIT.txt"
+  },
+  "json-buffer@3.0.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/dominictarr/json-buffer",
+    "publisher": "Dominic Tarr",
+    "email": "dominic.tarr@gmail.com",
+    "url": "http://dominictarr.com",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/json-buffer",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/json-buffer/LICENSE"
+  },
+  "json-parse-even-better-errors@2.3.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/npm/json-parse-even-better-errors",
+    "publisher": "Kat Marchán",
+    "email": "kzm@zkat.tech",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/json-parse-even-better-errors",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/json-parse-even-better-errors/LICENSE.md"
+  },
+  "json-schema-traverse@0.4.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/epoberezkin/json-schema-traverse",
+    "publisher": "Evgeny Poberezkin",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/json-schema-traverse",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/json-schema-traverse/LICENSE"
+  },
+  "json-stable-stringify-without-jsonify@1.0.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/samn/json-stable-stringify",
+    "publisher": "James Halliday",
+    "email": "mail@substack.net",
+    "url": "http://substack.net",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/json-stable-stringify-without-jsonify",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/json-stable-stringify-without-jsonify/LICENSE"
+  },
+  "json5@2.2.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/json5/json5",
+    "publisher": "Aseem Kishore",
+    "email": "aseem.kishore@gmail.com",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/json5",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/json5/LICENSE.md"
+  },
+  "jsx-ast-utils@3.3.5": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jsx-eslint/jsx-ast-utils",
+    "publisher": "Ethan Cohen",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/jsx-ast-utils",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/jsx-ast-utils/LICENSE.md"
+  },
+  "keyv@4.5.4": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jaredwray/keyv",
+    "publisher": "Jared Wray",
+    "email": "me@jaredwray.com",
+    "url": "http://jaredwray.com",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/keyv",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/keyv/README.md"
+  },
+  "levn@0.4.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/gkz/levn",
+    "publisher": "George Zahariev",
+    "email": "z@georgezahariev.com",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/levn",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/levn/LICENSE"
+  },
+  "license-checker@25.0.1": {
+    "licenses": "BSD-3-Clause",
+    "repository": "https://github.com/davglass/license-checker",
+    "publisher": "Dav Glass",
+    "email": "davglass@gmail.com",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/license-checker",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/license-checker/LICENSE"
+  },
+  "locate-path@6.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/locate-path",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "https://sindresorhus.com",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/locate-path",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/locate-path/license"
+  },
+  "lodash.merge@4.6.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/lodash/lodash",
+    "publisher": "John-David Dalton",
+    "email": "john.david.dalton@gmail.com",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/lodash.merge",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/lodash.merge/LICENSE"
+  },
+  "loose-envify@1.4.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/zertosh/loose-envify",
+    "publisher": "Andres Suarez",
+    "email": "zertosh@gmail.com",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/loose-envify",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/loose-envify/LICENSE"
+  },
+  "lru-cache@5.1.1": {
+    "licenses": "ISC",
+    "repository": "https://github.com/isaacs/node-lru-cache",
+    "publisher": "Isaac Z. Schlueter",
+    "email": "i@izs.me",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/lru-cache",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/lru-cache/LICENSE"
+  },
+  "math-intrinsics@1.1.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/es-shims/math-intrinsics",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/math-intrinsics",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/math-intrinsics/LICENSE"
+  },
+  "minimatch@3.1.2": {
+    "licenses": "ISC",
+    "repository": "https://github.com/isaacs/minimatch",
+    "publisher": "Isaac Z. Schlueter",
+    "email": "i@izs.me",
+    "url": "http://blog.izs.me",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/minimatch",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/minimatch/LICENSE"
+  },
+  "minimist@1.2.8": {
+    "licenses": "MIT",
+    "repository": "https://github.com/minimistjs/minimist",
+    "publisher": "James Halliday",
+    "email": "mail@substack.net",
+    "url": "http://substack.net",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/minimist",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/minimist/LICENSE"
+  },
+  "mkdirp@0.5.6": {
+    "licenses": "MIT",
+    "repository": "https://github.com/substack/node-mkdirp",
+    "publisher": "James Halliday",
+    "email": "mail@substack.net",
+    "url": "http://substack.net",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/mkdirp",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/mkdirp/LICENSE"
+  },
+  "ms@2.1.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/vercel/ms",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/ms",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/ms/license.md"
+  },
+  "nanoid@3.3.8": {
+    "licenses": "MIT",
+    "repository": "https://github.com/ai/nanoid",
+    "publisher": "Andrey Sitnik",
+    "email": "andrey@sitnik.ru",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/nanoid",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/nanoid/LICENSE"
+  },
+  "natural-compare@1.4.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/litejs/natural-compare-lite",
+    "publisher": "Lauri Rooden",
+    "url": "https://github.com/litejs/natural-compare-lite",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/natural-compare",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/natural-compare/README.md"
+  },
+  "node-releases@2.0.19": {
+    "licenses": "MIT",
+    "repository": "https://github.com/chicoxyzzy/node-releases",
+    "publisher": "Sergey Rubanov",
+    "email": "chi187@gmail.com",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/node-releases",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/node-releases/LICENSE"
+  },
+  "nopt@4.0.3": {
+    "licenses": "ISC",
+    "repository": "https://github.com/npm/nopt",
+    "publisher": "Isaac Z. Schlueter",
+    "email": "i@izs.me",
+    "url": "http://blog.izs.me/",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/nopt",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/nopt/LICENSE"
+  },
+  "normalize-package-data@2.5.0": {
+    "licenses": "BSD-2-Clause",
+    "repository": "https://github.com/npm/normalize-package-data",
+    "publisher": "Meryn Stol",
+    "email": "merynstol@gmail.com",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/normalize-package-data",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/normalize-package-data/LICENSE"
+  },
+  "npm-normalize-package-bin@1.0.1": {
+    "licenses": "ISC",
+    "repository": "https://github.com/npm/npm-normalize-package-bin",
+    "publisher": "Isaac Z. Schlueter",
+    "email": "i@izs.me",
+    "url": "https://izs.me",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/npm-normalize-package-bin",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/npm-normalize-package-bin/LICENSE"
+  },
+  "object-assign@4.1.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/object-assign",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/object-assign",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/object-assign/license"
+  },
+  "object-inspect@1.13.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/inspect-js/object-inspect",
+    "publisher": "James Halliday",
+    "email": "mail@substack.net",
+    "url": "http://substack.net",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/object-inspect",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/object-inspect/LICENSE"
+  },
+  "object-keys@1.1.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/ljharb/object-keys",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "url": "http://ljharb.codes",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/object-keys",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/object-keys/LICENSE"
+  },
+  "object.assign@4.1.7": {
+    "licenses": "MIT",
+    "repository": "https://github.com/ljharb/object.assign",
+    "publisher": "Jordan Harband",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/object.assign",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/object.assign/LICENSE"
+  },
+  "object.entries@1.1.8": {
+    "licenses": "MIT",
+    "repository": "https://github.com/es-shims/Object.entries",
+    "publisher": "Jordan Harband",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/object.entries",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/object.entries/LICENSE"
+  },
+  "object.fromentries@2.0.8": {
+    "licenses": "MIT",
+    "repository": "https://github.com/es-shims/Object.fromEntries",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/object.fromentries",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/object.fromentries/LICENSE"
+  },
+  "object.values@1.2.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/es-shims/Object.values",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/object.values",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/object.values/LICENSE"
+  },
+  "once@1.4.0": {
+    "licenses": "ISC",
+    "repository": "https://github.com/isaacs/once",
+    "publisher": "Isaac Z. Schlueter",
+    "email": "i@izs.me",
+    "url": "http://blog.izs.me/",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/once",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/once/LICENSE"
+  },
+  "optionator@0.9.4": {
+    "licenses": "MIT",
+    "repository": "https://github.com/gkz/optionator",
+    "publisher": "George Zahariev",
+    "email": "z@georgezahariev.com",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/optionator",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/optionator/LICENSE"
+  },
+  "os-homedir@1.0.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/os-homedir",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/os-homedir",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/os-homedir/license"
+  },
+  "os-tmpdir@1.0.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/os-tmpdir",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/os-tmpdir",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/os-tmpdir/license"
+  },
+  "osenv@0.1.5": {
+    "licenses": "ISC",
+    "repository": "https://github.com/npm/osenv",
+    "publisher": "Isaac Z. Schlueter",
+    "email": "i@izs.me",
+    "url": "http://blog.izs.me/",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/osenv",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/osenv/LICENSE"
+  },
+  "own-keys@1.0.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/ljharb/own-keys",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/own-keys",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/own-keys/LICENSE"
+  },
+  "p-limit@3.1.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/p-limit",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "https://sindresorhus.com",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/p-limit",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/p-limit/license"
+  },
+  "p-locate@5.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/p-locate",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "https://sindresorhus.com",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/p-locate",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/p-locate/license"
+  },
+  "parent-module@1.0.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/parent-module",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/parent-module",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/parent-module/license"
+  },
+  "path-exists@4.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/path-exists",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/path-exists",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/path-exists/license"
+  },
+  "path-is-absolute@1.0.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/path-is-absolute",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/path-is-absolute",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/path-is-absolute/license"
+  },
+  "path-key@3.1.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/path-key",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/path-key",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/path-key/license"
+  },
+  "path-parse@1.0.7": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jbgutierrez/path-parse",
+    "publisher": "Javier Blanco",
+    "email": "http://jbgutierrez.info",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/path-parse",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/path-parse/LICENSE"
+  },
+  "picocolors@1.1.1": {
+    "licenses": "ISC",
+    "repository": "https://github.com/alexeyraspopov/picocolors",
+    "publisher": "Alexey Raspopov",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/picocolors",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/picocolors/LICENSE"
+  },
+  "possible-typed-array-names@1.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/ljharb/possible-typed-array-names",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/possible-typed-array-names",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/possible-typed-array-names/LICENSE"
+  },
+  "postcss@8.4.49": {
+    "licenses": "MIT",
+    "repository": "https://github.com/postcss/postcss",
+    "publisher": "Andrey Sitnik",
+    "email": "andrey@sitnik.ru",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/postcss",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/postcss/LICENSE"
+  },
+  "prelude-ls@1.2.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/gkz/prelude-ls",
+    "publisher": "George Zahariev",
+    "email": "z@georgezahariev.com",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/prelude-ls",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/prelude-ls/LICENSE"
+  },
+  "prop-types@15.8.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/facebook/prop-types",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/prop-types",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/prop-types/LICENSE"
+  },
+  "punycode@2.3.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/mathiasbynens/punycode.js",
+    "publisher": "Mathias Bynens",
+    "url": "https://mathiasbynens.be/",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/punycode",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/punycode/LICENSE-MIT.txt"
+  },
+  "react-dom@18.3.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/facebook/react",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/react-dom",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/react-dom/LICENSE"
+  },
+  "react-is@16.13.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/facebook/react",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/react-is",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/react-is/LICENSE"
+  },
+  "react-refresh@0.14.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/facebook/react",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/react-refresh",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/react-refresh/LICENSE"
+  },
+  "react@18.3.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/facebook/react",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/react",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/react/LICENSE"
+  },
+  "read-installed@4.0.3": {
+    "licenses": "ISC",
+    "repository": "https://github.com/isaacs/read-installed",
+    "publisher": "Isaac Z. Schlueter",
+    "email": "i@izs.me",
+    "url": "http://blog.izs.me/",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/read-installed",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/read-installed/LICENSE"
+  },
+  "read-package-json@2.1.2": {
+    "licenses": "ISC",
+    "repository": "https://github.com/npm/read-package-json",
+    "publisher": "Isaac Z. Schlueter",
+    "email": "i@izs.me",
+    "url": "http://blog.izs.me/",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/read-package-json",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/read-package-json/LICENSE"
+  },
+  "readdir-scoped-modules@1.1.0": {
+    "licenses": "ISC",
+    "repository": "https://github.com/npm/readdir-scoped-modules",
+    "publisher": "Isaac Z. Schlueter",
+    "email": "i@izs.me",
+    "url": "http://blog.izs.me/",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/readdir-scoped-modules",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/readdir-scoped-modules/LICENSE"
+  },
+  "reflect.getprototypeof@1.0.10": {
+    "licenses": "MIT",
+    "repository": "https://github.com/es-shims/Reflect.getPrototypeOf",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/reflect.getprototypeof",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/reflect.getprototypeof/LICENSE"
+  },
+  "regexp.prototype.flags@1.5.4": {
+    "licenses": "MIT",
+    "repository": "https://github.com/es-shims/RegExp.prototype.flags",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/regexp.prototype.flags",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/regexp.prototype.flags/LICENSE"
+  },
+  "resolve-from@4.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/resolve-from",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/resolve-from",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/resolve-from/license"
+  },
+  "resolve@1.22.10": {
+    "licenses": "MIT",
+    "repository": "https://github.com/browserify/resolve",
+    "publisher": "James Halliday",
+    "email": "mail@substack.net",
+    "url": "http://substack.net",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/normalize-package-data/node_modules/resolve",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/normalize-package-data/node_modules/resolve/LICENSE"
+  },
+  "resolve@2.0.0-next.5": {
+    "licenses": "MIT",
+    "repository": "https://github.com/browserify/resolve",
+    "publisher": "James Halliday",
+    "email": "mail@substack.net",
+    "url": "http://substack.net",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/resolve",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/resolve/LICENSE"
+  },
+  "rollup@4.30.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/rollup/rollup",
+    "publisher": "Rich Harris",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/rollup",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/rollup/LICENSE.md"
+  },
+  "safe-array-concat@1.1.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/ljharb/safe-array-concat",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/safe-array-concat",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/safe-array-concat/LICENSE"
+  },
+  "safe-push-apply@1.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/ljharb/safe-push-apply",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/safe-push-apply",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/safe-push-apply/LICENSE"
+  },
+  "safe-regex-test@1.1.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/ljharb/safe-regex-test",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/safe-regex-test",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/safe-regex-test/LICENSE"
+  },
+  "scheduler@0.23.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/facebook/react",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/scheduler",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/scheduler/LICENSE"
+  },
+  "semver@5.7.2": {
+    "licenses": "ISC",
+    "repository": "https://github.com/npm/node-semver",
+    "publisher": "GitHub Inc.",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/normalize-package-data/node_modules/semver",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/normalize-package-data/node_modules/semver/LICENSE"
+  },
+  "semver@6.3.1": {
+    "licenses": "ISC",
+    "repository": "https://github.com/npm/node-semver",
+    "publisher": "GitHub Inc.",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/semver",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/semver/LICENSE"
+  },
+  "set-function-length@1.2.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/ljharb/set-function-length",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/set-function-length",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/set-function-length/LICENSE"
+  },
+  "set-function-name@2.0.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/ljharb/set-function-name",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/set-function-name",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/set-function-name/LICENSE"
+  },
+  "set-proto@1.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/ljharb/set-proto",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/set-proto",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/set-proto/LICENSE"
+  },
+  "shebang-command@2.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/kevva/shebang-command",
+    "publisher": "Kevin Mårtensson",
+    "email": "kevinmartensson@gmail.com",
+    "url": "github.com/kevva",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/shebang-command",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/shebang-command/license"
+  },
+  "shebang-regex@3.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/shebang-regex",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/shebang-regex",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/shebang-regex/license"
+  },
+  "side-channel-list@1.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/ljharb/side-channel-list",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/side-channel-list",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/side-channel-list/LICENSE"
+  },
+  "side-channel-map@1.0.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/ljharb/side-channel-map",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/side-channel-map",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/side-channel-map/LICENSE"
+  },
+  "side-channel-weakmap@1.0.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/ljharb/side-channel-weakmap",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/side-channel-weakmap",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/side-channel-weakmap/LICENSE"
+  },
+  "side-channel@1.1.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/ljharb/side-channel",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/side-channel",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/side-channel/LICENSE"
+  },
+  "slide@1.1.6": {
+    "licenses": "ISC",
+    "repository": "https://github.com/isaacs/slide-flow-control",
+    "publisher": "Isaac Z. Schlueter",
+    "email": "i@izs.me",
+    "url": "http://blog.izs.me/",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/slide",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/slide/LICENSE"
+  },
+  "source-map-js@1.2.1": {
+    "licenses": "BSD-3-Clause",
+    "repository": "https://github.com/7rulnik/source-map-js",
+    "publisher": "Valentin 7rulnik Semirulnik",
+    "email": "v7rulnik@gmail.com",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/source-map-js",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/source-map-js/LICENSE"
+  },
+  "spdx-compare@1.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/kemitchell/spdx-compare.js",
+    "publisher": "Kyle E. Mitchell",
+    "email": "kyle@kemitchell.com",
+    "url": "https://kemitchell.com",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/spdx-compare",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/spdx-compare/LICENSE.md"
+  },
+  "spdx-correct@3.2.0": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/jslicense/spdx-correct.js",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/spdx-correct",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/spdx-correct/LICENSE"
+  },
+  "spdx-exceptions@2.5.0": {
+    "licenses": "CC-BY-3.0",
+    "repository": "https://github.com/kemitchell/spdx-exceptions.json",
+    "publisher": "The Linux Foundation",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/spdx-exceptions",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/spdx-exceptions/README.md"
+  },
+  "spdx-expression-parse@3.0.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jslicense/spdx-expression-parse.js",
+    "publisher": "Kyle E. Mitchell",
+    "email": "kyle@kemitchell.com",
+    "url": "https://kemitchell.com",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/spdx-expression-parse",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/spdx-expression-parse/LICENSE"
+  },
+  "spdx-license-ids@3.0.20": {
+    "licenses": "CC0-1.0",
+    "repository": "https://github.com/jslicense/spdx-license-ids",
+    "publisher": "Shinnosuke Watanabe",
+    "url": "https://github.com/shinnn",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/spdx-license-ids",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/spdx-license-ids/README.md"
+  },
+  "spdx-ranges@2.1.1": {
+    "licenses": "(MIT AND CC-BY-3.0)",
+    "repository": "https://github.com/kemitchell/spdx-ranges.js",
+    "publisher": "The Linux Foundation",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/spdx-ranges",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/spdx-ranges/LICENSE.md"
+  },
+  "spdx-satisfies@4.0.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/kemitchell/spdx-satisfies.js",
+    "publisher": "Kyle E. Mitchell",
+    "email": "kyle@kemitchell.com",
+    "url": "https://kemitchell.com",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/spdx-satisfies",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/spdx-satisfies/LICENSE"
+  },
+  "string.prototype.matchall@4.0.12": {
+    "licenses": "MIT",
+    "repository": "https://github.com/es-shims/String.prototype.matchAll",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/string.prototype.matchall",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/string.prototype.matchall/LICENSE"
+  },
+  "string.prototype.repeat@1.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/mathiasbynens/String.prototype.repeat",
+    "publisher": "Mathias Bynens",
+    "url": "https://mathiasbynens.be/",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/string.prototype.repeat",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/string.prototype.repeat/LICENSE-MIT.txt"
+  },
+  "string.prototype.trim@1.2.10": {
+    "licenses": "MIT",
+    "repository": "https://github.com/es-shims/String.prototype.trim",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "url": "http://ljharb.codes",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/string.prototype.trim",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/string.prototype.trim/LICENSE"
+  },
+  "string.prototype.trimend@1.0.9": {
+    "licenses": "MIT",
+    "repository": "https://github.com/es-shims/String.prototype.trimEnd",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/string.prototype.trimend",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/string.prototype.trimend/LICENSE"
+  },
+  "string.prototype.trimstart@1.0.8": {
+    "licenses": "MIT",
+    "repository": "https://github.com/es-shims/String.prototype.trimStart",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/string.prototype.trimstart",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/string.prototype.trimstart/LICENSE"
+  },
+  "strip-json-comments@3.1.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/strip-json-comments",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "https://sindresorhus.com",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/strip-json-comments",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/strip-json-comments/license"
+  },
+  "supports-color@5.5.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/chalk/supports-color",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/license-checker/node_modules/supports-color",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/license-checker/node_modules/supports-color/license"
+  },
+  "supports-color@7.2.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/chalk/supports-color",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/supports-color",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/supports-color/license"
+  },
+  "supports-preserve-symlinks-flag@1.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/inspect-js/node-supports-preserve-symlinks-flag",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/supports-preserve-symlinks-flag",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/supports-preserve-symlinks-flag/LICENSE"
+  },
+  "treeify@1.1.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/notatestuser/treeify",
+    "publisher": "Luke Plaster",
+    "email": "notatestuser@gmail.com",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/treeify",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/treeify/LICENSE"
+  },
+  "type-check@0.4.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/gkz/type-check",
+    "publisher": "George Zahariev",
+    "email": "z@georgezahariev.com",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/type-check",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/type-check/LICENSE"
+  },
+  "typed-array-buffer@1.0.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/inspect-js/typed-array-buffer",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/typed-array-buffer",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/typed-array-buffer/LICENSE"
+  },
+  "typed-array-byte-length@1.0.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/inspect-js/typed-array-byte-length",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/typed-array-byte-length",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/typed-array-byte-length/LICENSE"
+  },
+  "typed-array-byte-offset@1.0.4": {
+    "licenses": "MIT",
+    "repository": "https://github.com/inspect-js/typed-array-byte-offset",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/typed-array-byte-offset",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/typed-array-byte-offset/LICENSE"
+  },
+  "typed-array-length@1.0.7": {
+    "licenses": "MIT",
+    "repository": "https://github.com/inspect-js/typed-array-length",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/typed-array-length",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/typed-array-length/LICENSE"
+  },
+  "unbox-primitive@1.1.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/ljharb/unbox-primitive",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/unbox-primitive",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/unbox-primitive/LICENSE"
+  },
+  "update-browserslist-db@1.1.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/browserslist/update-db",
+    "publisher": "Andrey Sitnik",
+    "email": "andrey@sitnik.ru",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/update-browserslist-db",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/update-browserslist-db/LICENSE"
+  },
+  "uri-js@4.4.1": {
+    "licenses": "BSD-2-Clause",
+    "repository": "https://github.com/garycourt/uri-js",
+    "publisher": "Gary Court",
+    "email": "gary.court@gmail.com",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/uri-js",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/uri-js/LICENSE"
+  },
+  "util-extend@1.0.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/isaacs/util-extend",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/util-extend",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/util-extend/LICENSE"
+  },
+  "validate-npm-package-license@3.0.4": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/kemitchell/validate-npm-package-license.js",
+    "publisher": "Kyle E. Mitchell",
+    "email": "kyle@kemitchell.com",
+    "url": "https://kemitchell.com",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/validate-npm-package-license",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/validate-npm-package-license/LICENSE"
+  },
+  "vite@6.0.7": {
+    "licenses": "MIT",
+    "repository": "https://github.com/vitejs/vite",
+    "publisher": "Evan You",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/vite",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/vite/LICENSE.md"
+  },
+  "which-boxed-primitive@1.1.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/inspect-js/which-boxed-primitive",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/which-boxed-primitive",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/which-boxed-primitive/LICENSE"
+  },
+  "which-builtin-type@1.2.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/inspect-js/which-builtin-type",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/which-builtin-type",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/which-builtin-type/LICENSE"
+  },
+  "which-collection@1.0.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/inspect-js/which-collection",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/which-collection",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/which-collection/LICENSE"
+  },
+  "which-typed-array@1.1.18": {
+    "licenses": "MIT",
+    "repository": "https://github.com/inspect-js/which-typed-array",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "url": "http://ljharb.codes",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/which-typed-array",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/which-typed-array/LICENSE"
+  },
+  "which@2.0.2": {
+    "licenses": "ISC",
+    "repository": "https://github.com/isaacs/node-which",
+    "publisher": "Isaac Z. Schlueter",
+    "email": "i@izs.me",
+    "url": "http://blog.izs.me",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/which",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/which/LICENSE"
+  },
+  "word-wrap@1.2.5": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jonschlinkert/word-wrap",
+    "publisher": "Jon Schlinkert",
+    "url": "https://github.com/jonschlinkert",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/word-wrap",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/word-wrap/LICENSE"
+  },
+  "wrappy@1.0.2": {
+    "licenses": "ISC",
+    "repository": "https://github.com/npm/wrappy",
+    "publisher": "Isaac Z. Schlueter",
+    "email": "i@izs.me",
+    "url": "http://blog.izs.me/",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/wrappy",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/wrappy/LICENSE"
+  },
+  "yallist@3.1.1": {
+    "licenses": "ISC",
+    "repository": "https://github.com/isaacs/yallist",
+    "publisher": "Isaac Z. Schlueter",
+    "email": "i@izs.me",
+    "url": "http://blog.izs.me/",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/yallist",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/yallist/LICENSE"
+  },
+  "yocto-queue@0.1.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/yocto-queue",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "https://sindresorhus.com",
+    "path": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/yocto-queue",
+    "licenseFile": "/Users/kaleykwan/Programming/testing/test-app/client/node_modules/yocto-queue/license"
+  }
+}
