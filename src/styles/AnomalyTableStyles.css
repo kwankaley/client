@@ -1,0 +1,43 @@
+.header {
+  position: sticky;
+  top: 0;
+  z-index: 1;
+  background-color: white;
+}
+
+.table-header {
+  text-align: left;
+  padding: 10px;
+}
+
+.table-body {
+  max-height: 300px;
+  overflow-y: auto;
+  display: block;
+}
+
+.row-item {
+  padding: 10px;
+  border-top: 0;
+  text-align: left;
+}
+
+table,
+th,
+td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+table {
+  border-left: 0;
+  border-top: 0;
+  width: 500px;
+}
+
+thead,
+tbody tr {
+  display: table;
+  width: 100%;
+  table-layout: fixed;
+}
