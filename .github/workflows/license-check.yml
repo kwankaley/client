@@ -19,5 +19,8 @@ jobs:
         with:
           node-version: "18.x"
 
-      - name: Run JavaScript license check
-        run: node scripts/check_js_licenses.js
+      - name: Set up Docker Compose
+        run: docker-compose up -d
+
+      - name: Run JavaScript license check inside container
+        run: docker-compose exec frontend node scripts/check_js_licenses.js
