@@ -48,6 +48,11 @@ function findAllPackageJsonFiles(directory) {
 
   for (const file of files) {
     const fullPath = join(directory, file);
+
+    if (file === "node_modules") {
+      continue;
+    }
+
     if (statSync(fullPath).isDirectory()) {
       results.push(...findAllPackageJsonFiles(fullPath));
     } else if (file === "package.json") {
