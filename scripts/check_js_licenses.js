@@ -43,7 +43,7 @@ function checkLicenses(directory) {
     init({ start: directory, json: true }, (err, packages) => {
       if (err) {
         console.error(`Error checking licenses in ${directory}:`, err);
-        resolve([]); // Return an empty list on error to keep processing other directories
+        resolve([]);
         return;
       }
 
