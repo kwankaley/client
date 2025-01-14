@@ -91,6 +91,10 @@ const allowedLicenses = [
   "BSD-3-Clause",
   "BSD-2-Clause",
   "ISC",
+  "Python-2.0",
+  "CC-BY-4.0",
+  "CC-BY-3.0",
+  "CC0-1.0",
 ];
 
 function findAllPackageJsonFiles(directory) {
