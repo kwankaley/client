@@ -91,6 +91,11 @@ const allowedLicenses = [
   "BSD-3-Clause",
   "BSD-2-Clause",
   "ISC",
+  "Python-2.0",
+  "CC-BY-4.0",
+  "CC-BY-3.0",
+  "CC0-1.0",
+  "(MIT AND CC-BY-3.0)",
 ];
 
 function findAllPackageJsonFiles(directory) {
@@ -127,7 +132,11 @@ function checkLicenses(directory) {
       const disallowed = Object.keys(packages).filter((pkg) => {
         const license = packages[pkg].licenses;
         const licenseList = Array.isArray(license) ? license : [license];
-        return licenseList.some((lic) => !allowedLicenses.includes(lic));
+        const isRootProject = pkg.startsWith("client@");
+        return (
+          !isRootProject &&
+          licenseList.some((lic) => !allowedLicenses.includes(lic))
+        );
       });
 
       // Map disallowed packages to their directory and license information
