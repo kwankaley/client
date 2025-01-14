@@ -14,8 +14,14 @@ export const AnomalyCard = () => {
     <div>
       {anomalies.map((anomaly) => {
         return (
-          <div style={{backgroundColor: "#f0f0f0", padding: 10, marginBottom: 10}}>
-            <p>{anomaly.name}</p>
+          <div
+            style={{
+              backgroundColor: "#f0f0f0",
+              padding: 10,
+              marginBottom: 10,
+            }}
+          >
+            <p>{anomaly.name}!</p>
             <p>{anomaly.description}</p>
           </div>
         );
