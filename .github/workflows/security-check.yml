@@ -30,9 +30,8 @@ jobs:
       - name: Generate Version
         id: version
         run: |
-          echo "VERSION=v$(git rev-parse --short HEAD)" >>
-          $GITHUB_ENV echo "version=${{ env.VERSION }}" >>
-          $GITHUB_OUTPUT
+          echo "VERSION=v$(git rev-parse --short HEAD)" >> $GITHUB_ENV
+          echo "version=${{ env.VERSION }}" >> $GITHUB_OUTPUT
 
       - name: Build and Tag Frontend Image
         run: |
