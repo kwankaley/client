@@ -2,19 +2,18 @@ import { execSync } from "child_process";
 import { init } from "license-checker";
 import { readdirSync, statSync } from "fs";
 import { join } from "path";
+import { readFileSync } from "fs";
 
-const allowedLicenses = [
-  "MIT",
-  "Apache-2.0",
-  "BSD-3-Clause",
-  "BSD-2-Clause",
-  "ISC",
-  "Python-2.0",
-  "CC-BY-4.0",
-  "CC-BY-3.0",
-  "CC0-1.0",
-  "(MIT AND CC-BY-3.0)",
-];
+const configPath = "./config.json";
+let allowedLicenses;
+
+try {
+  const configData = JSON.parse(readFileSync(configPath, "utf-8"));
+  allowedLicenses = configData.allowedLicenses;
+} catch (error) {
+  console.error(`Error loading config file at ${configPath}:`, error.message);
+  process.exit(1);
+}
 
 function findAllPackageJsonFiles(directory) {
   const results = [];
@@ -43,7 +42,7 @@ function checkLicenses(directory) {
     init({ start: directory, json: true }, (err, packages) => {
       if (err) {
         console.error(`Error checking licenses in ${directory}:`, err);
-        resolve([]); // Return an empty list on error to keep processing other directories
+        resolve([]);
         return;
       }
 
@@ -71,7 +70,7 @@ function checkLicenses(directory) {
 
 function runNpmInstall(directory) {
   try {
-    console.log(`Running npm install in ${directory}...`);
+    console.log(`Running npm install in ${directory} ...`);
     execSync("npm install", { cwd: directory, stdio: "inherit" });
     console.log(`npm install completed in ${directory}.`);
   } catch (error) {
@@ -95,7 +94,7 @@ async function main() {
 
   for (const file of packageJsonFiles) {
     const dir = join(file, "..");
-    console.log(`Checking licenses in ${dir}...`);
+    console.log(`Checking licenses in ${dir} ...`);
     const disallowedPackages = await checkLicenses(dir);
     allDisallowedPackages.push(...disallowedPackages);
   }
@@ -105,7 +104,7 @@ async function main() {
     allDisallowedPackages.forEach(({ package: pkg, directory, licenses }) => {
       console.log(`- ${pkg} (in ${directory}): ${licenses}`);
     });
-    process.exit(1); // Exit with failure if disallowed licenses are found
+    process.exit(1);
   } else {
     console.log("All licenses are allowed across all discovered packages!");
   }
