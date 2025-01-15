@@ -1,0 +1,47 @@
+name: Security Check
+
+on:
+  push:
+    branches:
+      - "**"
+  pull_request:
+
+# Environment variables used across
+env:
+  FRONTEND_IMAGE: kaleykwan/test-app-frontend
+
+jobs:
+  snyk-check:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Docker Buildx
+        uses: docker/setup-buildx-action@v2
+
+      - name: Log in to DockerHub
+        uses: docker/login-action@v3
+        with:
+          username: ${{ secrets.DOCKER_USERNAME }}
+          password: ${{ secrets.DOCKER_PASSWORD }}
+
+      - name: Generate Version
+        id: version
+        run: |
+          echo "VERSION=v$(git rev-parse --short HEAD)" >>
+          $GITHUB_ENV echo "version=${{ env.VERSION }}" >>
+          $GITHUB_OUTPUT
+
+      - name: Build and Tag Frontend Image
+        run: |
+          docker-compose build frontend
+          docker tag ${{ env.FRONTEND_IMAGE }}:${{ env.VERSION }} ${{ env.FRONTEND_IMAGE }}:latest
+
+      - name: Run Snyk to check Docker image for vulnerabilities
+        uses: snyk/actions/docker@master
+        env:
+          SNYK_TOKEN: ${{ secrets.SNYK_TOKEN }}
+        with:
+          image: ${{ env.FRONTEND_IMAGE }}:${{ env.VERSION }}
