@@ -104,7 +104,7 @@ async function main() {
     allDisallowedPackages.forEach(({ package: pkg, directory, licenses }) => {
       console.log(`- ${pkg} (in ${directory}): ${licenses}`);
     });
-    process.exit(1); // Exit with failure if disallowed licenses are found
+    process.exit(1);
   } else {
     console.log("All licenses are allowed across all discovered packages!");
   }
