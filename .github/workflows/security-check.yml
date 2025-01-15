@@ -35,7 +35,7 @@ jobs:
 
       - name: Build and Tag Frontend Image
         run: |
-          docker build ./client
+          docker build -t ${{ env.FRONTEND_IMAGE }}:${{ env.VERSION }} .
           docker tag ${{ env.FRONTEND_IMAGE }}:${{ env.VERSION }} ${{ env.FRONTEND_IMAGE }}:latest
 
       - name: Run Snyk to check Docker image for vulnerabilities
