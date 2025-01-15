@@ -19,5 +19,8 @@ jobs:
         with:
           node-version: "18.x"
 
+      - name: Install dependencies
+        run: npm install
+
       - name: Run JavaScript license check
         run: node scripts/check_js_licenses.js
