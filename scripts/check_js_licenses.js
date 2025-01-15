@@ -4,7 +4,7 @@ import { readdirSync, statSync } from "fs";
 import { join } from "path";
 import { readFileSync } from "fs";
 
-const configPath = "../config.json";
+const configPath = "./config.json";
 let allowedLicenses;
 
 try {
