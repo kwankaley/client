@@ -5,11 +5,9 @@ const octokit = new Octokit({
 });
 
 export const PushCodeButton = () => {
-  const code = "Testing creating a txt file with octokit! Hello world!";
-
-  const path = "scripts/test_txt_file.txt";
-
   const handleClick = async () => {
+    const code = 'print("Hello Kaley!")';
+    const path = "scripts/hello_script.py";
     try {
       let sha = null;
 
@@ -45,7 +43,7 @@ export const PushCodeButton = () => {
           },
           content: btoa(code),
           ...(sha && { sha }),
-          branch: "test-snyk",
+          branch: "test-push-code",
         }
       );
 
