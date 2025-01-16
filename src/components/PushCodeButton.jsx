@@ -6,8 +6,8 @@ const octokit = new Octokit({
 
 export const PushCodeButton = () => {
   const handleClick = async () => {
-    const code = 'print("Hello Kaley!")';
-    const path = "scripts/hello_script.py";
+    const code = 'print("Hello Kaley!")\nprint("Hello again!")';
+    const path = "scripts/hello_script2.py";
     try {
       let sha = null;
 
@@ -18,6 +18,7 @@ export const PushCodeButton = () => {
             owner: "kwankaley",
             repo: "client",
             path: path,
+            ref: "test-push-code",
           }
         );
 
