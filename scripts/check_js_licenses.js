@@ -18,7 +18,7 @@ try {
 async function getPackageName(directory) {
   try {
     const packageJsonPath = join(directory, "package.json");
-    const packageJson = await fs.readFile(packageJsonPath, "utf8");
+    const packageJson = readFileSync(packageJsonPath, "utf8");
     const { name } = JSON.parse(packageJson);
     return name;
   } catch (error) {
