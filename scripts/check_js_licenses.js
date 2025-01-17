@@ -15,6 +15,18 @@ try {
   process.exit(1);
 }
 
+async function getPackageName(directory) {
+  try {
+    const packageJsonPath = join(directory, "package.json");
+    const packageJson = readFileSync(packageJsonPath, "utf8");
+    const { name } = JSON.parse(packageJson);
+    return name;
+  } catch (error) {
+    console.error(`Error reading package.json in ${directory}:`, error);
+    return null;
+  }
+}
+
 function findAllPackageJsonFiles(directory) {
   const results = [];
   const files = readdirSync(directory);
@@ -38,7 +50,13 @@ function findAllPackageJsonFiles(directory) {
 }
 
 function checkLicenses(directory) {
-  return new Promise((resolve) => {
+  return new Promise(async (resolve) => {
+    const rootProjectName = await getPackageName(directory);
+    if (!rootProjectName) {
+      resolve([]);
+      return;
+    }
+
     init({ start: directory, json: true }, (err, packages) => {
       if (err) {
         console.error(`Error checking licenses in ${directory}:`, err);
@@ -49,7 +67,7 @@ function checkLicenses(directory) {
       const disallowed = Object.keys(packages).filter((pkg) => {
         const license = packages[pkg].licenses;
         const licenseList = Array.isArray(license) ? license : [license];
-        const isRootProject = pkg.startsWith("client@");
+        const isRootProject = pkg.startsWith(`${rootProjectName}@`);
         return (
           !isRootProject &&
           licenseList.some((lic) => !allowedLicenses.includes(lic))
