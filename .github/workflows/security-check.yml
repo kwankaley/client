@@ -35,3 +35,4 @@ jobs:
           SNYK_TOKEN: ${{ secrets.SNYK_TOKEN }}
         with:
           image: ${{ env.FRONTEND_IMAGE }}:${{ env.VERSION }}
+          args: --policy-path=./.snyk
