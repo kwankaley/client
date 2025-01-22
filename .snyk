@@ -1,0 +1,8 @@
+version: v1.25.0
+ignore:
+  SNYK-DEBIAN12-ZLIB-6008963:
+    - "*":
+        reason: "Testing ignoring a vulnerability"
+  SNYK-DEBIAN12-OPENJPEG2-8601567:
+    - "*":
+        reason: "Testing ignoring another vulnerability"

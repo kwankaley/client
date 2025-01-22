@@ -21,7 +21,7 @@ export const AnomalyCard = () => {
               marginBottom: 10,
             }}
           >
-            <p>{anomaly.name}</p>
+            <p>{anomaly.name}!!</p>
             <p>{anomaly.description}</p>
           </div>
         );

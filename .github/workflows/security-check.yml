@@ -8,7 +8,7 @@ on:
 
 # Environment variables used across
 env:
-  FRONTEND_IMAGE: kaleykwan/test-app-frontend
+  FRONTEND_IMAGE: frontend-image
 
 jobs:
   snyk-check:
@@ -17,9 +17,6 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
-
-      - name: Set up Docker Buildx
-        uses: docker/setup-buildx-action@v2
 
       - name: Generate Version
         id: version
@@ -38,3 +35,4 @@ jobs:
           SNYK_TOKEN: ${{ secrets.SNYK_TOKEN }}
         with:
           image: ${{ env.FRONTEND_IMAGE }}:${{ env.VERSION }}
+          args: --policy-path=./.snyk

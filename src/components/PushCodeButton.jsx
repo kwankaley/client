@@ -5,26 +5,46 @@ const octokit = new Octokit({
 });
 
 export const PushCodeButton = () => {
-  const code = "Testing creating a txt file with octokit!";
-
   const handleClick = async () => {
+    const code = 'print("Hello Kaley!")\nprint("Hello again!")';
+    const path = "scripts/hello_script2.py";
     try {
+      let sha = null;
+
+      try {
+        const fileDetails = await octokit.request(
+          `GET /repos/kwankaley/client/contents/${path}`,
+          {
+            owner: "kwankaley",
+            repo: "client",
+            path: path,
+            ref: "test-push-code",
+          }
+        );
+
+        sha = fileDetails.data.sha;
+      } catch (fetchError) {
+        if (fetchError.status === 404) {
+          console.log("File does not exist. Proceeding to create it...");
+        } else {
+          throw fetchError;
+        }
+      }
+
       const response = await octokit.request(
-        "PUT /repos/kwankaley/client/contents/scripts/test_txt_file.txt",
+        `PUT /repos/kwankaley/client/contents/${path}`,
         {
           owner: "kwankaley",
           repo: "client",
-          path: "scripts/test_txt_file.txt",
+          path: path,
           message: "Pushing txt file with the click of a button",
           committer: {
             name: "Kaley Kwan",
             email: "kaley@aira-technology.com",
           },
           content: btoa(code),
-          branch: "test-snyk",
-          headers: {
-            "X-GitHub-Api-Version": "2022-11-28",
-          },
+          ...(sha && { sha }),
+          branch: "test-push-code",
         }
       );
 
