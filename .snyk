@@ -1,7 +1,5 @@
-<!-- prettier-ignore-start -->
 version: v1.25.0
 ignore:
   SNYK-DEBIAN12-ZLIB-6008963:
     - "*":
         reason: "Testing ignoring a vulnerability"
-<!-- prettier-ignore-end -->
